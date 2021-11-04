@@ -3,3 +3,9 @@
         "pusher/pusher-php-server": "^7.0"
     }
 }
+"repositories":[
+    {
+        "type": "vcs",
+        "url": "git@github.com:barryvanveen/secret.git"
+    }
+]
