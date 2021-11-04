@@ -1,4 +1,10 @@
 {
+    "repositories": [
+        {
+            "url": "https://github.com/lephucnnn/iuh-connect.git",
+            "type": "git"
+        }
+    ],
     "require": {
         "pusher/pusher-php-server": "^7.0"
     }
